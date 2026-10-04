@@ -55,5 +55,3 @@ Other areas of work include longitudinal spatial panels, GIS, treatment-effect h
 
 **Fabrizzio Rodriguez**  
 MA Economics, University of Manitoba
-
-[LinkedIn](https://www.linkedin.com/in/frodrigueza/)
